@@ -1,1 +1,1 @@
-echo ola ke ase
+echo "hi"

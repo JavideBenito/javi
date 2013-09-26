@@ -1,5 +1,7 @@
-Javier de Benito
+<nombre>Javi</nombre>
 
-Edad 26
+<edad> 26 </edad>
 
-Aficionado a la novela negra.
+<ocio>Aficionado a la novela negra.</ocio>
+
+<carrera> Grado Ing. Telematica </carrera>
